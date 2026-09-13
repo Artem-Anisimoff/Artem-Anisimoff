@@ -1,6 +1,7 @@
-## Hi there 👋
-sad
-
+## Привет, я Артём 👋
+💻 Аналитик данных с опытом в техподдержке
+🔭 Оттачиваю навыки SQL, Python, Superset 
+📫 Связь ![Телеграм](t.me/anisimovartyom)
 <!--
 **Artem-Anisimoff/Artem-Anisimoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
